@@ -73,21 +73,21 @@
                 android:layout_width="0dp"
                 android:layout_height="wrap_content"
                 android:layout_weight="1"
-                android:text="A" />
+                android:text="1" />
 
             <Button
                 android:id="@+id/btnB"
                 android:layout_width="0dp"
                 android:layout_height="wrap_content"
                 android:layout_weight="1"
-                android:text="B" />
+                android:text="2" />
 
             <Button
                 android:id="@+id/btnC"
                 android:layout_width="0dp"
                 android:layout_height="wrap_content"
                 android:layout_weight="1"
-                android:text="C" />
+                android:text="3" />
         </LinearLayout>
 
         <LinearLayout
@@ -102,21 +102,21 @@
                 android:layout_width="0dp"
                 android:layout_height="wrap_content"
                 android:layout_weight="1"
-                android:text="D" />
+                android:text="4" />
 
             <Button
                 android:id="@+id/btnE"
                 android:layout_width="0dp"
                 android:layout_height="wrap_content"
                 android:layout_weight="1"
-                android:text="E" />
+                android:text="5" />
 
             <Button
                 android:id="@+id/btnF"
                 android:layout_width="0dp"
                 android:layout_height="wrap_content"
                 android:layout_weight="1"
-                android:text="F" />
+                android:text="6" />
         </LinearLayout>
         <LinearLayout
             android:id="@+id/rowTop"
@@ -130,30 +130,30 @@
                 android:layout_width="0dp"
                 android:layout_height="wrap_content"
                 android:layout_weight="1"
-                android:text="A" />
+                android:text="7" />
 
             <Button
                 android:id="@+id/btnB"
                 android:layout_width="0dp"
                 android:layout_height="wrap_content"
                 android:layout_weight="1"
-                android:text="B" />
+                android:text="8" />
 
             <Button
                 android:id="@+id/btnC"
                 android:layout_width="0dp"
                 android:layout_height="wrap_content"
                 android:layout_weight="1"
-                android:text="C" />
+                android:text="9" />
         </LinearLayout>
     </LinearLayout>
 
     <Button
         android:id="@+id/btnConfirm"
-        android:layout_width="wrap_content"
+        android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_gravity="center_horizontal"
         android:layout_marginTop="24dp"
-        android:text="Zatwierdź" />
+        android:text="C" />
 
 </LinearLayout>
